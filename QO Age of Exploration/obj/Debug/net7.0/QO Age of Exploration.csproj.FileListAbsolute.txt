@@ -1,0 +1,15 @@
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/bin/Debug/net7.0/QO Age of Exploration
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/bin/Debug/net7.0/QO Age of Exploration.deps.json
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/bin/Debug/net7.0/QO Age of Exploration.runtimeconfig.json
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/bin/Debug/net7.0/QO Age of Exploration.dll
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/bin/Debug/net7.0/QO Age of Exploration.pdb
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/obj/Debug/net7.0/QO Age of Exploration.csproj.AssemblyReference.cache
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/obj/Debug/net7.0/QO Age of Exploration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/obj/Debug/net7.0/QO Age of Exploration.AssemblyInfoInputs.cache
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/obj/Debug/net7.0/QO Age of Exploration.AssemblyInfo.cs
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/obj/Debug/net7.0/QO Age of Exploration.csproj.CoreCompileInputs.cache
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/obj/Debug/net7.0/QO Age of Exploration.dll
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/obj/Debug/net7.0/refint/QO Age of Exploration.dll
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/obj/Debug/net7.0/QO Age of Exploration.pdb
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/obj/Debug/net7.0/QO Age of Exploration.genruntimeconfig.cache
+/Users/jaredwile/Desktop/QO - Age of Exploration/Program/QO Age of Exploration/obj/Debug/net7.0/ref/QO Age of Exploration.dll
