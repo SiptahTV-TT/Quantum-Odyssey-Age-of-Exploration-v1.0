@@ -11,14 +11,16 @@ namespace Program
 	{
         public static void Main(string[] args)
         {
+            Console.WriteLine("-------------------------------------");
+
             Console.WriteLine("Welcome to Quantum Odyssey: Age of Exploration!");
             Console.WriteLine("Author: Jared Wile aka Siptah");
             Console.WriteLine("Version: 0.0.1");
             Console.WriteLine("Date: 07/22/2023");
 
-            Console.WriteLine("-------------------------------------");
+            Console.WriteLine("--------------------------------------");
 
-            
+
             
             Console.WriteLine("--------------------------------------");
 
