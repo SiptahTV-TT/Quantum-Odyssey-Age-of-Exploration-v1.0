@@ -12,6 +12,13 @@ namespace Program
         {
             Console.WriteLine("Welcome to Quantum Odyssey: Age of Exploration!");
 
+            Console.WriteLine("Press any key to continue...");
+            Console.Read(); // Wait for user input
+
+            
+
+
+
            
         }
     }
