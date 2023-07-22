@@ -1,9 +1,11 @@
-# Quantom-Odyssey-Age-of-Exploration-v1.0
+# Quantom Odyssey: Age of Exploration v0.1 - Private Release
+# Synopsis of project:
+
 A space exploration game where you can do anything your mind desires.
 
 Project is expected to be completed somemtime in 2025
 
-# Info
+# Info:
 
 
 -------------------------------------------------------------------------
@@ -18,10 +20,23 @@ an original project**
 
 -------------------------------------------------------------------------
 
+
+
 -------------------------------------------------------------------------
 
-**Legal information**:
+
+EMPTY SECTION
 
 
+-------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------
+
+# Legal information:
+
+All works of the "Artist" are their own, and any references to other
+titles are purely unintentional.
 
 -------------------------------------------------------------------------
