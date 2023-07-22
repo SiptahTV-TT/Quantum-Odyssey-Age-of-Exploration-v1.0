@@ -3,9 +3,10 @@ A space exploration game where you can do anything your mind desires.
 
 Project is expected to be completed somemtime in 2025
 
+# Info
 
 
-**Info** ----------------------------------------------------------------
+-------------------------------------------------------------------------
 
 ***Author***: Siptah - Jared
 ***Date of first release***: TBD
