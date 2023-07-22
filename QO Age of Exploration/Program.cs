@@ -40,6 +40,21 @@ namespace Program
             Console.WriteLine("You are now in your ship, and you are ready to explore the universe.");
             Console.WriteLine("You have been given a map of the universe, and you are ready to explore.");
 
+            Console.WriteLine("-------------------------------------");
+
+            Console.WriteLine("You see the stars passing by you as you wake up from hypersleep.");
+
+            Console.WriteLine("-------------------------------------");
+
+
+
+            Console.WriteLine("Do you: ");
+            Console.WriteLine("1. Go to the bridge");
+            Console.WriteLine("2. Grab your weapon, and go to the bridge");
+
+
+
+
         }
     }
 }
