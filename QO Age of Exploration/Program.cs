@@ -53,7 +53,18 @@ namespace Program
             Console.WriteLine("2. Grab your weapon, and go to the bridge");
 
 
-
+            if (Console.ReadLine() == "1")
+            {
+                Console.WriteLine("You go to the bridge.");
+            }
+            else if (Console.ReadLine() == "2")
+            {
+                Console.WriteLine("You grab your weapon, and go to the bridge..");
+            }
+            else
+            {
+                Console.WriteLine("You do nothing.");
+            }
 
         }
     }
