@@ -68,8 +68,6 @@ namespace QOAgeOfExploration
             if (Console.ReadLine() == "1")
             {
                 Console.WriteLine("You go to the bridge.");
-                Console.WriteLine("Press any key to continue...");
-                Console.ReadKey();
             }
             else if (Console.ReadLine() == "2")
             {
@@ -121,7 +119,6 @@ namespace QOAgeOfExploration
                 Console.WriteLine("2. Explore the ruins");
                 Console.WriteLine("3. Explore the mountains");
                 Console.WriteLine("4. Explore the ocean");
-
                 Console.WriteLine("Press any key to continue...");
                 Console.ReadKey();
 
@@ -149,6 +146,10 @@ namespace QOAgeOfExploration
                 Console.WriteLine("You decide to go to Volaria.");
 
             }
+
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey();
+
 
             Console.WriteLine("-------------------------------------");
 
