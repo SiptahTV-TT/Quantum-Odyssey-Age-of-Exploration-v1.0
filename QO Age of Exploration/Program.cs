@@ -4,11 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Program
+namespace QOAgeOfExploration
 
+
+
+{
 	public class Program
 	{
-        public static void Main(string[] args)
+        public static void Main(string[])
         {
             Console.WriteLine("-------------------------------------");
 
