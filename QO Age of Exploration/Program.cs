@@ -14,7 +14,7 @@ namespace Program
 
             Console.WriteLine("Welcome to Quantum Odyssey: Age of Exploration!");
             Console.WriteLine("Author: Jared Wile aka Siptah");
-            Console.WriteLine("Version: 0.0.1");
+            Console.WriteLine("Version: 0.0.3");
             Console.WriteLine("Date: 07/22/2023");
 
             Console.WriteLine("--------------------------------------");
@@ -53,6 +53,8 @@ namespace Program
 
             Console.WriteLine("-------------------------------------");
 
+            Console.WriteLine("-------------------------------------");
+
 
 
             Console.WriteLine("Do you: ");
@@ -80,6 +82,8 @@ namespace Program
             }
             Console.WriteLine("-------------------------------------");
 
+            Console.WriteLine("-------------------------------------");
+
             Console.WriteLine("Flying through hyperspace, you can hear the engines.");
             Console.WriteLine("You load up the holographic map of neighboring galaxies.");
             Console.WriteLine("Your crew assembles around the table, and you begin to discuss your plan.");
@@ -103,19 +107,26 @@ namespace Program
             if (Console.ReadLine() == "1")
             {
                 Console.WriteLine("You decide to go to Volaria.");
-                Console.WriteLine("Press any key to continue...");
-                Console.ReadKey();
-
-                Console.WriteLine("-------------------------------------");
-
                 Console.WriteLine("You arrive at Volaria, and you see a beautiful, lush, forested planet, surrounded by a series of 3 moons.");
                 Console.WriteLine("You land your ship, and you begin to explore the planet.");
+
+                Console.WriteLine("Press any key to continue...");
+                Console.ReadKey();
 
                 Console.WriteLine("Do you: ");
                 Console.WriteLine("1. Explore the forest");
                 Console.WriteLine("2. Explore the ruins");
                 Console.WriteLine("3. Explore the mountains");
                 Console.WriteLine("4. Explore the ocean");
+
+                Console.WriteLine("Press any key to continue...");
+                Console.ReadKey();
+
+                Console.WriteLine("-------------------------------------");
+
+
+                Console.WriteLine("-------------------------------------");
+
 
             }
             else if (Console.ReadLine() == "2")
