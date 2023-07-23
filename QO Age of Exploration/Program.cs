@@ -162,3 +162,12 @@ namespace QOAgeOfExploration
         }
     }
 }
+
+namespace player
+
+{
+    public class Game
+    {
+        
+    }
+}
